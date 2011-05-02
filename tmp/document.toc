@@ -1,0 +1,34 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
+\contentsline {section}{\numberline {2}Grundlagen}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Service Orientierung}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Definition}{2}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Grundlegende Konzepte}{2}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Aufbau}{2}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}WebService}{2}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Definition}{2}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}WebService Architektur}{2}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}WebService Standards}{2}{subsubsection.2.2.3}
+\contentsline {paragraph}{\numberline {2.2.3.1}WSDL}{2}{paragraph.2.2.3.1}
+\contentsline {paragraph}{\numberline {2.2.3.2}SOAP}{2}{paragraph.2.2.3.2}
+\contentsline {paragraph}{\numberline {2.2.3.3}UDDI}{2}{paragraph.2.2.3.3}
+\contentsline {subsection}{\numberline {2.3}BPEL4WS}{2}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}Definition}{2}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Variablen und XPath}{2}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Sprachbestandteile}{2}{subsubsection.2.3.3}
+\contentsline {paragraph}{\numberline {2.3.3.1}Basic Activities}{2}{paragraph.2.3.3.1}
+\contentsline {paragraph}{\numberline {2.3.3.2}Structured Activities}{3}{paragraph.2.3.3.2}
+\contentsline {paragraph}{\numberline {2.3.3.3}Scopes}{3}{paragraph.2.3.3.3}
+\contentsline {section}{\numberline {3}Existierende reale Web Services}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}webservice 1 (name)}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Beschreibung}{4}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Nutzung des WebService (name)}{4}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}webservice 2 (name)}{4}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Beschreibung}{4}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Nutzung des WebService (name)}{4}{subsubsection.3.2.2}
+\contentsline {section}{\numberline {4}Entwicklung von 2 \glqq realistischen\grqq \ BPEL Prozesse}{5}{section.4}
+\contentsline {section}{\numberline {5}BPRules}{6}{section.5}
+\contentsline {section}{\numberline {6}Zusammenfassung}{7}{section.6}
+\contentsline {section}{\numberline {7}Abk\"urzungsverzeichnis}{8}{section.7}
+\contentsline {section}{Literatur}{9}{section*.2}
+\contentsline {section}{Abbildungsverzeichnis}{10}{section*.3}

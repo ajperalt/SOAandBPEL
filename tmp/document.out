@@ -1,0 +1,33 @@
+\BOOKMARK [1][-]{section.1}{Einleitung}{}% 1
+\BOOKMARK [1][-]{section.2}{Grundlagen}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Service Orientierung}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Definition}{subsection.2.1}% 4
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Grundlegende Konzepte}{subsection.2.1}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Aufbau}{subsection.2.1}% 6
+\BOOKMARK [2][-]{subsection.2.2}{WebService}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Definition}{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.2}{WebService Architektur}{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.3}{WebService Standards}{subsection.2.2}% 10
+\BOOKMARK [4][-]{paragraph.2.2.3.1}{WSDL}{subsubsection.2.2.3}% 11
+\BOOKMARK [4][-]{paragraph.2.2.3.2}{SOAP}{subsubsection.2.2.3}% 12
+\BOOKMARK [4][-]{paragraph.2.2.3.3}{UDDI}{subsubsection.2.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3}{BPEL4WS}{section.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Definition}{subsection.2.3}% 15
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Variablen und XPath}{subsection.2.3}% 16
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Sprachbestandteile}{subsection.2.3}% 17
+\BOOKMARK [4][-]{paragraph.2.3.3.1}{Basic Activities}{subsubsection.2.3.3}% 18
+\BOOKMARK [4][-]{paragraph.2.3.3.2}{Structured Activities}{subsubsection.2.3.3}% 19
+\BOOKMARK [4][-]{paragraph.2.3.3.3}{Scopes}{subsubsection.2.3.3}% 20
+\BOOKMARK [1][-]{section.3}{Existierende reale Web Services}{}% 21
+\BOOKMARK [2][-]{subsection.3.1}{webservice 1 \(name\)}{section.3}% 22
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Beschreibung}{subsection.3.1}% 23
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Nutzung des WebService \(name\)}{subsection.3.1}% 24
+\BOOKMARK [2][-]{subsection.3.2}{webservice 2 \(name\)}{section.3}% 25
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Beschreibung}{subsection.3.2}% 26
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Nutzung des WebService \(name\)}{subsection.3.2}% 27
+\BOOKMARK [1][-]{section.4}{Entwicklung von 2 \214realistischen\215 BPEL Prozesse}{}% 28
+\BOOKMARK [1][-]{section.5}{BPRules}{}% 29
+\BOOKMARK [1][-]{section.6}{Zusammenfassung}{}% 30
+\BOOKMARK [1][-]{section.7}{Abk\374rzungsverzeichnis}{}% 31
+\BOOKMARK [1][-]{section*.2}{Literatur}{}% 32
+\BOOKMARK [1][-]{section*.3}{Abbildungsverzeichnis}{}% 33
