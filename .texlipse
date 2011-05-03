@@ -1,5 +1,9 @@
 #TeXlipse project settings
+<<<<<<< HEAD
 #Wed Apr 20 17:51:37 CEST 2011
+=======
+#Wed Apr 20 11:11:57 CEST 2011
+>>>>>>> refs/remotes/choose_remote_name/master
 builderNum=2
 outputDir=
 makeIndSty=
